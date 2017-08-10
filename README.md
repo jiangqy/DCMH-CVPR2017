@@ -8,3 +8,4 @@
 * Author: [Qing-Yuan Jiang](http://jiangqy.me) and [Wu-Jun Li](http://cs.nju.edu.cn/lwj)
 * Contact: jiangqy#lamda.nju.edu.cn or liwujun#nju.edu.cn
 * We recommend you use matlab version to run DCMH algorithm.
+* If you require IAPR TC12 dataset and NUS-WIDE dataset, please contact me (jiangqy#lamda.nju.edu.cn).
