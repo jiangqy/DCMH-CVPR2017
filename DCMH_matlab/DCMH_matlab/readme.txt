@@ -9,6 +9,17 @@
     3.0.before you run DCMH matconvnet demo, please make sure that you compile matconvnet on your machine. If not, run ./matconvnet/compilenn.m
     3.1.preprocessing:
         please preprocessing dataset to appropriate input format.
+        or you can download dataset from pan.baidu.com
+        MIRFLICKR25K:
+            link: https://pan.baidu.com/s/1o5jSliFjAezBavyBOiJxew
+            password: 8dub
+        NUS-WIDE (top-21 concept)：
+            link:
+            password:
+        NUS-WIDE (top-10 concept):
+            link:
+            password:
+        For convenience, I divided all varibles into some single files. After download the dataset, pls merge all variables by yourself.
     3.2.put files in correct path :
             ./datafile
             ./data/imagenet-vgg-f.mat
