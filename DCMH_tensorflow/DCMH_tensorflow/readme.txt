@@ -15,8 +15,8 @@
             link: https://pan.baidu.com/s/1o5jSliFjAezBavyBOiJxew
             password: 8dub
         NUS-WIDE (top-21 concept)：
-            link:
-            password:
+            link: https://pan.baidu.com/s/13TpINv9GoNTvVdd084K5zQ
+            password: kmws
         NUS-WIDE (top-10 concept):
             link: https://pan.baidu.com/s/1GFljcAtWDQFDVhgx6Jv_nQ
             password: ml4y
