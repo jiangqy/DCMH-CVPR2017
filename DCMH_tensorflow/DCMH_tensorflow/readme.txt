@@ -18,8 +18,8 @@
             link:
             password:
         NUS-WIDE (top-10 concept):
-            link:
-            password:
+            link: https://pan.baidu.com/s/1GFljcAtWDQFDVhgx6Jv_nQ
+            password: ml4y
         For convenience, I divided all varibles into some single files. After download the dataset, pls merge all variables by yourself.
     4.2.put files in correct path :
             ./datafile
